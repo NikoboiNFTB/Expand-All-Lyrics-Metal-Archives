@@ -17,6 +17,16 @@ A Tampermonkey userscript for [Metal Archives](https://www.metal-archives.com/) 
 2. Click the **“Raw”** link of the script or copy the code.  
 3. Tampermonkey will prompt to install the script—click **Install**.  
 
+> **Note for Chrome/Edge/Brave users:**  
+> After installing Tampermonkey, make sure it's fully enabled:
+>
+> 1. Go to `chrome://extensions/` (or `edge://extensions/` etc.)
+> 2. Click **“Details”** under Tampermonkey
+> 3. Enable **“Allow user scripts”** (you may need to enable Developer Mode first)
+> 4. Refresh the Metal Archives page  
+>
+> If this step is skipped, the userscript won’t run!
+
 ---
 
 ## Usage
@@ -31,7 +41,7 @@ A Tampermonkey userscript for [Metal Archives](https://www.metal-archives.com/) 
 ## Notes
 
 - Designed for desktop browsers only.  
-- Lightweight and does not modify the page beyond expanding/collapsing lyrics.
+- Lightweight and fast, does not modify the page beyond expanding/collapsing lyrics.
 
 ---
 
