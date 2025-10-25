@@ -6,6 +6,7 @@
 // @author       Nikoboi
 // @match        https://www.metal-archives.com/albums/*
 // @grant        none
+// @icon         https://www.metal-archives.com/favicon.ico
 // ==/UserScript==
 
 (function() {
