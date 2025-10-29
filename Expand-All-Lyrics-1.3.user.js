@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Expand All Lyrics (for Metal Archives)
-// @namespace    https://github.com/NikoboiNFTB/Expand-All-Lyrics-Metal-Archives/
+// @name         Metal Archives - Expand All Lyrics
+// @namespace    https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/
 // @version      1.3
 // @description  Shift + click any "Show lyrics" to expand all track lyrics. Can also close all lyrics.
 // @author       Nikoboi
