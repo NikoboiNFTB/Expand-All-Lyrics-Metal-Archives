@@ -4,11 +4,11 @@ This repository contains a collection of useful userscripts to enhance the exper
 
 ## Userscripts
 
-### 1. **Expand-All-Lyrics-1.3.user.js** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Expand-All-Lyrics-1.3.user.js))
+### 1. **Expand All Lyrics** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Expand-All-Lyrics-1.3.user.js))
 
-This userscript enables you to expand all track lyrics on a Metal Archives album page with a simple Shift+Click on any "Show lyrics" button. It also allows you to close all lyrics when clicked again.
+This userscript enables you to expand all track lyrics on a Metal Archives album page with a simple Shift + Click on any "Show lyrics" button. It also allows you to close all lyrics when clicked again.
 
-### 2. **Hide-Elements-1.1.user.js** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Hide-Elements-1.1.user.js))
+### 2. **Hide Elements** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Hide-Elements-1.1.user.js))
 
 Placeholder description. This script hides some elements on the homepage (like the top stats and latest album updates), styles login input fields, and adjust the width of the news box.
 
