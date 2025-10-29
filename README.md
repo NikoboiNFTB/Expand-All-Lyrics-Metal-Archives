@@ -1,50 +1,36 @@
-# Expand All Lyrics (for Metal Archives)
+# Metal Archives Tweaks
 
-A Tampermonkey userscript for [Metal Archives](https://www.metal-archives.com/) that allows you to **expand or collapse all lyrics** on an album page with a simple Shift+click.
+This repository contains a collection of useful userscripts to enhance the experience on [Metal Archives](https://www.metal-archives.com/). These tweaks allow you to perform various actions such as expanding all lyrics with a single click or hiding specific elements on the site for a cleaner experience.
 
----
+## Userscripts
 
-## Features
+### 1. **Expand-All-Lyrics-1.3.user.js** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Expand-All-Lyrics-1.3.user.js))
 
-- Shift+click any "Show lyrics" link to **expand all lyrics** on the page. Ditto for collapsing.
-- Fast and lightweight, uses the site’s built-in functions.  
+This userscript enables you to expand all track lyrics on a Metal Archives album page with a simple Shift+Click on any "Show lyrics" button. It also allows you to close all lyrics when clicked again.
 
----
+### 2. **Hide-Elements-1.1.user.js** ([install](https://github.com/NikoboiNFTB/Metal-Archives-Tweaks/raw/refs/heads/main/Hide-Elements-1.1.user.js))
 
-## Installation
+Placeholder description. This script hides some elements on the homepage (like the top stats and latest album updates), styles login input fields, and adjust the width of the news box.
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) (or a compatible userscript manager) in your browser.  
-2. Click the **“Raw”** link of the script or copy the code.  
-3. Tampermonkey will prompt to install the script—click **Install**.  
+## Installation Instructions
 
-> **Note for Chrome/Edge/Brave users:**  
-> After installing Tampermonkey, make sure it's fully enabled:
->
-> 1. Go to `chrome://extensions/` (or `edge://extensions/` etc.)
-> 2. Click **“Details”** under Tampermonkey
-> 3. Enable **“Allow user scripts”** (you may need to enable Developer Mode first)
-> 4. Refresh the Metal Archives page  
->
-> If this step is skipped, the userscript won’t run!
+1. **Install Tampermonkey or Greasemonkey:**
+   - For [Tampermonkey](https://www.tampermonkey.net/): Download and install the extension for your browser.
+     -  Available on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) and [Chrome Extensions](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
 
----
+2. **Add the Script:**
+   - Click the installation link for the script you want to install (listed above).
+   - Tampermonkey will prompt you to add the script. Confirm the installation.
 
-## Usage
-
-1. Open any album page on Metal Archives.  
-2. **Shift+click** any “Show lyrics” link:  
-   - All lyrics on the page will expand.
-3. **Shift+Click** again to collapse all lyrics.
-
----
-
-## Notes
-
-- Designed for desktop browsers only.  
-- Lightweight and fast, does not modify the page beyond expanding/collapsing lyrics.
-
----
+3. **Enjoy the Tweaks:**
+   - Once the script is installed (and enabled), it will automatically execute on the specified Metal Archives pages.
 
 ## License
 
-GPLv3 License. Feel free to fork, modify, and improve.
+This repository is licensed under the **GPLv3** license.
+
+For more information, check [LICENSE](LICENSE).
+
+## Contributing
+
+Feel free to open issues or pull requests if you have suggestions or improvements for these userscripts. Any contributions are welcome!
